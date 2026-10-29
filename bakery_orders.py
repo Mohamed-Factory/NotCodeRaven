@@ -23,8 +23,3 @@ def get_discount_rate():
 def get_max_croissants():
     """Most croissants allowed in one order."""
     return 37
-
-
-def get_free_delivery_threshold():
-    """Orders above this total in dollars get free delivery."""
-    return 64.50
