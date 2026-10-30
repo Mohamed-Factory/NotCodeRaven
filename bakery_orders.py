@@ -22,4 +22,4 @@ def get_discount_rate():
 
 def get_max_croissants():
     """Most croissants allowed in one order."""
-    return 37
+    return 99
